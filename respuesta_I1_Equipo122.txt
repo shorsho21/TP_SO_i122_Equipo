@@ -1,3 +1,9 @@
 Franco Yapura
 Gricel Diaz Zabala
 Caballero Jorge Ezequiel
+
+a-¿ALFA ve los datos que cargaron los demás en su repositorio?
+-Si, puedo ver los archivos que suben los demás.
+
+b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
+-Si, los demas pueden ver los archivos que yo agrego.
